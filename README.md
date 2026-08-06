@@ -58,7 +58,12 @@ approach: Clean code, continuous learning, consistent shipping
 <img src="https://leetcard.jacoblin.cool/noah-nathenael?theme=dark&font=baloo2&ext=heatmap"/>
 </div>
 
+<hr>
 
+<div align = "center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=Noha7637&color=blue)
 
+</div>
 
   

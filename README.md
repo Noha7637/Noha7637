@@ -3,7 +3,7 @@
 </p>
 
 <p align= "center">
-<a href="https://t.me/@NNS0736" target="_blank">
+<a href="https://t.me/NNS0736" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
 <a href="https://www.linkedin.com/in/noah-nathenael-0b6314360/" target="_blank">

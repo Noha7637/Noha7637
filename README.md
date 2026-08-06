@@ -1,5 +1,14 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2ECCFA&center=true&vCenter=true&width=440&lines=Welcome+to+my+profile!;Building+|+Adapting+|+Evolving;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2ECCFA&center=true&vCenter=true&width=440&lines=Welcome+to+my+github+profile!;Building+|+Adapting+|+Evolving;" alt="Typing SVG" />
+</p>
+
+<p align= "center">
+<a href="https://t.me/@NNS0736" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
+<a href="https://www.linkedin.com/in/noah-nathenael-0b6314360/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 </p>
 
 <hr>
@@ -47,19 +56,6 @@ approach: Clean code, continuous learning, consistent shipping
 <h3 align="center">My Leetcode Journey</h3>
 <div align = "center">
 <img src="https://leetcard.jacoblin.cool/noah-nathenael?theme=dark&font=baloo2&ext=heatmap"/>
-</div>
-
-<hr>
-<div align = "center">
-<h3>Connect with me:</h3>
-<p>
-<a href="https://github.com/Noha7637" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/noah-nathenael-0b6314360/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-</p>
 </div>
 
 

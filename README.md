@@ -11,12 +11,12 @@ name: Noah Nathenael
 role: Student and Aspiring Software Engineer
 languages: [English, Amharic]
 focus: Full stack apps, APIs, DSA
-approach: Clean code, continuous learning, shipping consistently
+approach: Clean code, continuous learning, consistent shipping
 ```
 
 <hr>
 
-<h3 align="center">🛠 Tech Stack</h3>
+<h3 align="center">Tech Stack</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
@@ -32,7 +32,7 @@ approach: Clean code, continuous learning, shipping consistently
 
 <hr>
 
-<h1 align = "center">GitHub Stats & Contributions</h1>
+<h3 align = "center">GitHub Stats & Contributions</h3>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noha7637&theme=tokyonight" alt="GitHub Streak"/>
@@ -44,16 +44,15 @@ approach: Clean code, continuous learning, shipping consistently
 
 <hr>
 
-<h2 align="center">My Leetcode Journey</h2>
+<h3 align="center">My Leetcode Journey</h3>
 <div align = "center">
 <img src="https://leetcard.jacoblin.cool/noah-nathenael?theme=dark&font=baloo2&ext=heatmap"/>
 </div>
 
 <hr>
-
-### 🤝 Connect with me:
-
-<p align="left">
+<div align = "center">
+<h3>Connect with me:</h3>
+<p>
 <a href="https://github.com/Noha7637" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
@@ -61,7 +60,9 @@ approach: Clean code, continuous learning, shipping consistently
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 </p>
+</div>
 
-<hr>
+
+
 
   

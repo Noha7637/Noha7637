@@ -23,7 +23,7 @@
 
 ```yaml
 name: Noah Nathenael
-role: CS Student and Aspiring Software Engineer
+role: CS Student@AAU and Aspiring Software Engineer
 languages: [English, Amharic]
 focus: Full stack apps, APIs, DSA
 approach: Clean code, continuous learning, consistent shipping

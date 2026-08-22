@@ -47,11 +47,12 @@ approach: Clean code, continuous learning, consistent shipping
 
 <hr>
 
-<h3 align = "center">GitHub Stats & Contributions</h3>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noha7637&theme=tokyonight" alt="GitHub Streak"/>
-</p>
+<table align="center">
+<tr>
+<td valign="center"><img src="https://github-stats-extended.vercel.app/api?username=Noha7637&show_icons=true&theme=radical" alt="GitHub Stats"/></td>
+<td valign="top"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Noha7637&theme=radical&langs_count=5" alt="Most Used Languages"/></td>
+</tr>
+</table>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Noha7637&theme=tokyo-night" alt="Contribution Graph"/>

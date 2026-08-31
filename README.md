@@ -26,7 +26,7 @@ name: Noah Nathenael
 role: CS Student@AAU and Aspiring Software Engineer
 languages: [English, Amharic]
 focus: Full stack apps, APIs, DSA
-approach: Clean code, continuous learning, consistent shipping
+approach: Continuous learning and consistent shipping
 ```
 
 <hr>
